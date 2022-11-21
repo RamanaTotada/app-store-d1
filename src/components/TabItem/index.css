@@ -1,0 +1,14 @@
+.button-style {
+  background-color: transparent;
+  color: #7b8794;
+  font-size: 20px;
+  outline: none;
+  border-width: 0px;
+  background-color: transparent;
+  cursor: pointer;
+}
+.color {
+  color: blue;
+  border-bottom: blue;
+  border-bottom-width: 5px;
+}
